@@ -1,0 +1,2630 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1152245,
+                    18.4677685
+                ]
+            },
+            "properties": {
+                "nome": "Colegio de P\u00e1rvulos",
+                "tipo": "school"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1186616,
+                    18.4639124
+                ]
+            },
+            "properties": {
+                "nome": "Iglesia de la Concepci\u00f3n",
+                "tipo": "place_of_worship"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.118461,
+                    18.4668527
+                ]
+            },
+            "properties": {
+                "nome": "Seminario Conciliar",
+                "tipo": "school"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1184168,
+                    18.4666395
+                ]
+            },
+            "properties": {
+                "nome": "Centro de Estudios Avanzados de Puerto Rico y el Caribe",
+                "tipo": "university"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1152438,
+                    18.4671867
+                ]
+            },
+            "properties": {
+                "nome": "Templo La Hermosa",
+                "tipo": "place_of_worship"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1133788,
+                    18.4632882
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1134747,
+                    18.463681
+                ]
+            },
+            "properties": {
+                "nome": "Farmacia Caridad",
+                "tipo": "pharmacy"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.113287,
+                    18.4637238
+                ]
+            },
+            "properties": {
+                "nome": "Scotiabank",
+                "tipo": "atm"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1135179,
+                    18.4632525
+                ]
+            },
+            "properties": {
+                "nome": "Tijuana's Bar & Grill",
+                "tipo": "restaurant"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.113303,
+                    18.4656015
+                ]
+            },
+            "properties": {
+                "nome": "Marmalade Restaurant",
+                "tipo": "restaurant"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.11438,
+                    18.4660562
+                ]
+            },
+            "properties": {
+                "nome": "Burger King",
+                "tipo": "fast_food"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1162421,
+                    18.4655997
+                ]
+            },
+            "properties": {
+                "nome": "Walgreens",
+                "tipo": "pharmacy"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.112095,
+                    18.466544
+                ]
+            },
+            "properties": {
+                "nome": "Cafe Berlin",
+                "tipo": "restaurant"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1123401,
+                    18.4659446
+                ]
+            },
+            "properties": {
+                "nome": "Cafe Puerto Rico",
+                "tipo": "restaurant"
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1182676,
+                    18.4649643
+                ]
+            },
+            "properties": {
+                "nome": "La Cucina di Ivo",
+                "tipo": "restaurant"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1178719,
+                    18.4644302
+                ]
+            },
+            "properties": {
+                "nome": "La Danza",
+                "tipo": "restaurant"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1172424,
+                    18.464555
+                ]
+            },
+            "properties": {
+                "nome": "Barrachina",
+                "tipo": "restaurant"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174717,
+                    18.4646386
+                ]
+            },
+            "properties": {
+                "nome": "Cafe el Punto",
+                "tipo": "cafe"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1177304,
+                    18.4643349
+                ]
+            },
+            "properties": {
+                "nome": "El Parnaso",
+                "tipo": "restaurant"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1170729,
+                    18.4648303
+                ]
+            },
+            "properties": {
+                "nome": "Emergency Care Dentist",
+                "tipo": "dentist"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1176561,
+                    18.4651736
+                ]
+            },
+            "properties": {
+                "nome": "Marilyn's Place",
+                "tipo": "bar"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.116974,
+                    18.464087
+                ]
+            },
+            "properties": {
+                "nome": "Verde Mesa",
+                "tipo": "restaurant"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.117656,
+                    18.4640262
+                ]
+            },
+            "properties": {
+                "nome": "Anam",
+                "tipo": "bar"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1170652,
+                    18.464796
+                ]
+            },
+            "properties": {
+                "nome": "Yogen Fr\u00fcz",
+                "tipo": "ice_cream"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1159041,
+                    18.4655642
+                ]
+            },
+            "properties": {
+                "nome": "Bad Ass Coffee",
+                "tipo": "cafe"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1153389,
+                    18.4655587
+                ]
+            },
+            "properties": {
+                "nome": "Carthage Express",
+                "tipo": "restaurant"
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.115857,
+                    18.4648877
+                ]
+            },
+            "properties": {
+                "nome": "Pizza Hut",
+                "tipo": "restaurant"
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1163993,
+                    18.4655478
+                ]
+            },
+            "properties": {
+                "nome": "Puerto Rico Drug",
+                "tipo": "pharmacy"
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1162008,
+                    18.4654567
+                ]
+            },
+            "properties": {
+                "nome": "Subway",
+                "tipo": "fast_food"
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1161408,
+                    18.4651774
+                ]
+            },
+            "properties": {
+                "nome": "the poet's passage",
+                "tipo": "cafe"
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1140575,
+                    18.4660235
+                ]
+            },
+            "properties": {
+                "nome": "Cafe Mallorca",
+                "tipo": "restaurant"
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1149425,
+                    18.4659109
+                ]
+            },
+            "properties": {
+                "nome": "Farmacia Luma",
+                "tipo": "pharmacy"
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1153716,
+                    18.4658082
+                ]
+            },
+            "properties": {
+                "nome": "hecho en casa",
+                "tipo": "restaurant"
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1141673,
+                    18.465445
+                ]
+            },
+            "properties": {
+                "nome": "Douglas's Pub",
+                "tipo": "bar"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1141494,
+                    18.4656597
+                ]
+            },
+            "properties": {
+                "nome": "Han Cream",
+                "tipo": "restaurant"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1137085,
+                    18.4655147
+                ]
+            },
+            "properties": {
+                "nome": "La Roca",
+                "tipo": "restaurant"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.113643,
+                    18.4655222
+                ]
+            },
+            "properties": {
+                "nome": "Trois Cent Onze",
+                "tipo": "restaurant"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1135644,
+                    18.4655415
+                ]
+            },
+            "properties": {
+                "nome": "T\u00edo Danny",
+                "tipo": "restaurant"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1141673,
+                    18.465769
+                ]
+            },
+            "properties": {
+                "nome": "Viva San Juan",
+                "tipo": "nightclub"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1133749,
+                    18.4660252
+                ]
+            },
+            "properties": {
+                "nome": "Nuyorican Caf\u00e9",
+                "tipo": "nightclub"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1151534,
+                    18.4641691
+                ]
+            },
+            "properties": {
+                "nome": "Carli's",
+                "tipo": "restaurant"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1152811,
+                    18.4641282
+                ]
+            },
+            "properties": {
+                "nome": "Popular",
+                "tipo": "atm"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1154722,
+                    18.4642835
+                ]
+            },
+            "properties": {
+                "nome": "Oriental",
+                "tipo": "atm"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1117184,
+                    18.4666037
+                ]
+            },
+            "properties": {
+                "nome": "Blizz",
+                "tipo": "ice_cream"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1123576,
+                    18.4664845
+                ]
+            },
+            "properties": {
+                "nome": "Caficultura",
+                "tipo": "restaurant"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1121876,
+                    18.4665248
+                ]
+            },
+            "properties": {
+                "nome": "Old SJ Food Court",
+                "tipo": "restaurant"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1150146,
+                    18.465791
+                ]
+            },
+            "properties": {
+                "nome": "Wisos Velillas Bar",
+                "tipo": "bar"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1128789,
+                    18.4664216
+                ]
+            },
+            "properties": {
+                "nome": "Blessed",
+                "tipo": "restaurant"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1130403,
+                    18.466385
+                ]
+            },
+            "properties": {
+                "nome": "La Madre",
+                "tipo": "restaurant"
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1129278,
+                    18.4664101
+                ]
+            },
+            "properties": {
+                "nome": "The House of Mofongo",
+                "tipo": "restaurant"
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144555,
+                    18.4646715
+                ]
+            },
+            "properties": {
+                "nome": "Nuestro Son",
+                "tipo": "nightclub"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1123571,
+                    18.4657206
+                ]
+            },
+            "properties": {
+                "nome": "Sofia's",
+                "tipo": "restaurant"
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1123493,
+                    18.4654353
+                ]
+            },
+            "properties": {
+                "nome": "Balcon del Moreno's",
+                "tipo": "restaurant"
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1124717,
+                    18.4652414
+                ]
+            },
+            "properties": {
+                "nome": "Brickhouse",
+                "tipo": "bar"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1126767,
+                    18.4656281
+                ]
+            },
+            "properties": {
+                "nome": "Ceviche",
+                "tipo": "restaurant"
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1123389,
+                    18.465465
+                ]
+            },
+            "properties": {
+                "nome": "Colmado Bar Moreno's",
+                "tipo": "bar"
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1124313,
+                    18.4657034
+                ]
+            },
+            "properties": {
+                "nome": "Tacos",
+                "tipo": "restaurant"
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.112542,
+                    18.4651865
+                ]
+            },
+            "properties": {
+                "nome": "Frozen Yo",
+                "tipo": "ice_cream"
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1124222,
+                    18.4653174
+                ]
+            },
+            "properties": {
+                "nome": "Moreno's Stop Bar Rest.",
+                "tipo": "restaurant"
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.112381,
+                    18.465381
+                ]
+            },
+            "properties": {
+                "nome": "Starbucks",
+                "tipo": "cafe"
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1127418,
+                    18.4656083
+                ]
+            },
+            "properties": {
+                "nome": "La Cucina di Ivo",
+                "tipo": "restaurant"
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.113026,
+                    18.4657482
+                ]
+            },
+            "properties": {
+                "nome": "Toro Salao",
+                "tipo": "restaurant"
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1133054,
+                    18.4661865
+                ]
+            },
+            "properties": {
+                "nome": "El Asador",
+                "tipo": "restaurant"
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1142392,
+                    18.4667759
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante La Rubia",
+                "tipo": "restaurant"
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1143804,
+                    18.467753
+                ]
+            },
+            "properties": {
+                "nome": "El Adoqu\u00edn del Patio",
+                "tipo": "pub"
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1149013,
+                    18.4641561
+                ]
+            },
+            "properties": {
+                "nome": "Triana",
+                "tipo": "restaurant"
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1129033,
+                    18.4645902
+                ]
+            },
+            "properties": {
+                "nome": "Vaca Brava",
+                "tipo": "restaurant"
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1143618,
+                    18.4643382
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Cuatro Sombras",
+                "tipo": "cafe"
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1183943,
+                    18.4661472
+                ]
+            },
+            "properties": {
+                "nome": "El Picoteo",
+                "tipo": "restaurant"
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1183289,
+                    18.4663214
+                ]
+            },
+            "properties": {
+                "nome": "Pizza e Birra",
+                "tipo": "restaurant"
+            },
+            "id": 69
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1136511,
+                    18.4645469
+                ]
+            },
+            "properties": {
+                "nome": "Al Dente",
+                "tipo": "restaurant"
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.112983,
+                    18.464812
+                ]
+            },
+            "properties": {
+                "nome": "Genesis",
+                "tipo": "restaurant"
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1135857,
+                    18.4645668
+                ]
+            },
+            "properties": {
+                "nome": "Inar\u00fa",
+                "tipo": "restaurant"
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1130645,
+                    18.4647723
+                ]
+            },
+            "properties": {
+                "nome": "Istanbul Restaurant",
+                "tipo": "restaurant"
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1137227,
+                    18.4645302
+                ]
+            },
+            "properties": {
+                "nome": "La Picadera Bar & Restaurant",
+                "tipo": "restaurant"
+            },
+            "id": 74
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1138066,
+                    18.4645007
+                ]
+            },
+            "properties": {
+                "nome": "La Cueva del Mar",
+                "tipo": "restaurant"
+            },
+            "id": 75
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1135224,
+                    18.464581
+                ]
+            },
+            "properties": {
+                "nome": "Lupis",
+                "tipo": "restaurant"
+            },
+            "id": 76
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1131546,
+                    18.4647224
+                ]
+            },
+            "properties": {
+                "nome": "Mojitos",
+                "tipo": "restaurant"
+            },
+            "id": 77
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1128961,
+                    18.4648496
+                ]
+            },
+            "properties": {
+                "nome": "Panza Fine Dining",
+                "tipo": "restaurant"
+            },
+            "id": 78
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.113428,
+                    18.4646136
+                ]
+            },
+            "properties": {
+                "nome": "Ra\u00edces",
+                "tipo": "restaurant"
+            },
+            "id": 79
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1140204,
+                    18.4637516
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Ochoa",
+                "tipo": "restaurant"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1122991,
+                    18.4648663
+                ]
+            },
+            "properties": {
+                "nome": "Santander",
+                "tipo": "bank"
+            },
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1124007,
+                    18.4639125
+                ]
+            },
+            "properties": {
+                "nome": "Se\u00f1or Frogs",
+                "tipo": "bar"
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.11222,
+                    18.464635
+                ]
+            },
+            "properties": {
+                "nome": "USPS - Viejo San Juan",
+                "tipo": "post_office"
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1143624,
+                    18.4668796
+                ]
+            },
+            "properties": {
+                "nome": "El Caldero",
+                "tipo": "restaurant"
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.114374,
+                    18.4667502
+                ]
+            },
+            "properties": {
+                "nome": "Mercado La Carreta",
+                "tipo": "restaurant"
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.11447,
+                    18.467209
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante El Jibarito",
+                "tipo": "restaurant"
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.114868,
+                    18.467248
+                ]
+            },
+            "properties": {
+                "nome": "Cafet\u00edn Marrero",
+                "tipo": "cafe"
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.114651,
+                    18.467283
+                ]
+            },
+            "properties": {
+                "nome": "El Farolito",
+                "tipo": "bar"
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1156805,
+                    18.4663068
+                ]
+            },
+            "properties": {
+                "nome": "Beta-Local",
+                "tipo": "arts_centre"
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1172417,
+                    18.4660637
+                ]
+            },
+            "properties": {
+                "nome": "Corral\u00f3n de San Jos\u00e9, Instituto de Cultura Puertorrique\u00f1a",
+                "tipo": "theatre"
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1164482,
+                    18.4658769
+                ]
+            },
+            "properties": {
+                "nome": "Il Bacaro Venezia",
+                "tipo": "restaurant"
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1166561,
+                    18.4667525
+                ]
+            },
+            "properties": {
+                "nome": "St. Germain Bistro and Cafe",
+                "tipo": "restaurant"
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1166631,
+                    18.466742
+                ]
+            },
+            "properties": {
+                "nome": "The Mezzanie",
+                "tipo": "bar"
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1175664,
+                    18.4669197
+                ]
+            },
+            "properties": {
+                "nome": "Acqua",
+                "tipo": "bar"
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1180533,
+                    18.4671365
+                ]
+            },
+            "properties": {
+                "nome": "Aureola",
+                "tipo": "restaurant"
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1182491,
+                    18.4665427
+                ]
+            },
+            "properties": {
+                "nome": "Ben & Jerry's",
+                "tipo": "ice_cream"
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1181624,
+                    18.4662133
+                ]
+            },
+            "properties": {
+                "nome": "Booty's",
+                "tipo": "bar"
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.118279,
+                    18.4666356
+                ]
+            },
+            "properties": {
+                "nome": "Don Collin's",
+                "tipo": "cafe"
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1181824,
+                    18.4662559
+                ]
+            },
+            "properties": {
+                "nome": "Don Pablo",
+                "tipo": "bar"
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1182023,
+                    18.4663165
+                ]
+            },
+            "properties": {
+                "nome": "El Batey",
+                "tipo": "bar"
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1181072,
+                    18.467123
+                ]
+            },
+            "properties": {
+                "nome": "El Boqueron",
+                "tipo": "bar"
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.118181,
+                    18.4671069
+                ]
+            },
+            "properties": {
+                "nome": "El Patio de Sam",
+                "tipo": "restaurant"
+            },
+            "id": 102
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174881,
+                    18.4671157
+                ]
+            },
+            "properties": {
+                "nome": "La Cubanita",
+                "tipo": "bar"
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1170993,
+                    18.4673506
+                ]
+            },
+            "properties": {
+                "nome": "La Sombrilla Rosa",
+                "tipo": "bar"
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1176714,
+                    18.4672119
+                ]
+            },
+            "properties": {
+                "nome": "La Tortuga",
+                "tipo": "restaurant"
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1183769,
+                    18.4670611
+                ]
+            },
+            "properties": {
+                "nome": "Nono's",
+                "tipo": "bar"
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1170805,
+                    18.4653968
+                ]
+            },
+            "properties": {
+                "nome": "Meson Sandwiches",
+                "tipo": "fast_food"
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1165023,
+                    18.466743
+                ]
+            },
+            "properties": {
+                "nome": "Deaverdura",
+                "tipo": "restaurant"
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1162976,
+                    18.4674435
+                ]
+            },
+            "properties": {
+                "nome": "Logia Caballeros de la Verdad N\u00ba 37",
+                "tipo": "place_of_worship"
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1184035,
+                    18.4654699
+                ]
+            },
+            "properties": {
+                "nome": "Rosa de Triana",
+                "tipo": "restaurant"
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.118206,
+                    18.4652534
+                ]
+            },
+            "properties": {
+                "nome": "Tropical Taste",
+                "tipo": "restaurant"
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1195205,
+                    18.4675925
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Don Ruiz",
+                "tipo": "cafe"
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1198399,
+                    18.4681067
+                ]
+            },
+            "properties": {
+                "nome": "Cinema Bar 1950",
+                "tipo": "bar"
+            },
+            "id": 113
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1178127,
+                    18.4672782
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Culebra",
+                "tipo": "bar"
+            },
+            "id": 114
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1176275,
+                    18.4673143
+                ]
+            },
+            "properties": {
+                "nome": "Casa Borinquen",
+                "tipo": "restaurant"
+            },
+            "id": 115
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1178855,
+                    18.4672655
+                ]
+            },
+            "properties": {
+                "nome": "D\u00e1kiti",
+                "tipo": "bar"
+            },
+            "id": 116
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1172793,
+                    18.4673972
+                ]
+            },
+            "properties": {
+                "nome": "La Taberna L\u00fapulo",
+                "tipo": "bar"
+            },
+            "id": 117
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1194834,
+                    18.4673332
+                ]
+            },
+            "properties": {
+                "nome": "Escuela de Artes Pl\u00e1sticas de Puerto Rico",
+                "tipo": "university"
+            },
+            "id": 118
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.106918,
+                    18.4641575
+                ]
+            },
+            "properties": {
+                "nome": "Melao",
+                "tipo": "restaurant"
+            },
+            "id": 119
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1188558,
+                    18.4666262
+                ]
+            },
+            "properties": {
+                "nome": "Centro de Estudios Avanzados de Puerto Rico y el Caribe",
+                "tipo": "university"
+            },
+            "id": 120
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1143297,
+                    18.4687308
+                ]
+            },
+            "properties": {
+                "nome": "El Kofres\u00ed",
+                "tipo": "bar"
+            },
+            "id": 121
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1135378,
+                    18.4653988
+                ]
+            },
+            "properties": {
+                "nome": "Greengos Caribbean Cantina",
+                "tipo": "restaurant"
+            },
+            "id": 122
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1165072,
+                    18.4641438
+                ]
+            },
+            "properties": {
+                "nome": "Se\u00f1or Paleta",
+                "tipo": "ice_cream"
+            },
+            "id": 123
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1166886,
+                    18.4667494
+                ]
+            },
+            "properties": {
+                "nome": "Alfresco Rooftop Wine Bar",
+                "tipo": "bar"
+            },
+            "id": 124
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144935,
+                    18.4660403
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Finca Cialitos",
+                "tipo": "cafe"
+            },
+            "id": 125
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1171989,
+                    18.4673131
+                ]
+            },
+            "properties": {
+                "nome": "Sanse",
+                "tipo": "restaurant"
+            },
+            "id": 126
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1168671,
+                    18.4650611
+                ]
+            },
+            "properties": {
+                "nome": "Popular",
+                "tipo": "atm"
+            },
+            "id": 127
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1161845,
+                    18.4652458
+                ]
+            },
+            "properties": {
+                "nome": "Popular",
+                "tipo": "atm"
+            },
+            "id": 128
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1166829,
+                    18.4650654
+                ]
+            },
+            "properties": {
+                "nome": "Pani Agua",
+                "tipo": "cafe"
+            },
+            "id": 129
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1196093,
+                    18.4683478
+                ]
+            },
+            "properties": {
+                "nome": "Mercado Agr\u00edcola Natural Viejo San Juan",
+                "tipo": "marketplace"
+            },
+            "id": 130
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1154099,
+                    18.4653652
+                ]
+            },
+            "properties": {
+                "nome": "La G\u00fcerita",
+                "tipo": "restaurant"
+            },
+            "id": 131
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1129657,
+                    18.4633761
+                ]
+            },
+            "properties": {
+                "nome": "Gspot",
+                "tipo": "restaurant"
+            },
+            "id": 132
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1126866,
+                    18.4650093
+                ]
+            },
+            "properties": {
+                "nome": "Buns Burger Shop",
+                "tipo": "restaurant"
+            },
+            "id": 133
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1155287,
+                    18.4655098
+                ]
+            },
+            "properties": {
+                "nome": "Casa Cort\u00e9s ChocoBar",
+                "tipo": "cafe"
+            },
+            "id": 134
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.119978,
+                    18.4675149
+                ]
+            },
+            "properties": {
+                "nome": "Rinc\u00f3n Ib\u00e9rico",
+                "tipo": "restaurant"
+            },
+            "id": 135
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.119471,
+                    18.4676014
+                ]
+            },
+            "properties": {
+                "nome": "T\u00edo Danny",
+                "tipo": "restaurant"
+            },
+            "id": 136
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1121345,
+                    18.4640524
+                ]
+            },
+            "properties": {
+                "nome": "Walgreens",
+                "tipo": "pharmacy"
+            },
+            "id": 137
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1069479,
+                    18.4641082
+                ]
+            },
+            "properties": {
+                "nome": "Cafe Muelle 6",
+                "tipo": "cafe"
+            },
+            "id": 138
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1173999,
+                    18.4672429
+                ]
+            },
+            "properties": {
+                "nome": "La Factor\u00eda",
+                "tipo": "nightclub"
+            },
+            "id": 139
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1176103,
+                    18.4670955
+                ]
+            },
+            "properties": {
+                "nome": "Helader\u00eda San Jos\u00e9",
+                "tipo": "ice_cream"
+            },
+            "id": 140
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1179049,
+                    18.4671729
+                ]
+            },
+            "properties": {
+                "nome": "Local #110",
+                "tipo": "bar"
+            },
+            "id": 141
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1175831,
+                    18.4670051
+                ]
+            },
+            "properties": {
+                "nome": "Tradici\u00f3n Quetzal",
+                "tipo": "restaurant"
+            },
+            "id": 142
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1177476,
+                    18.4671945
+                ]
+            },
+            "properties": {
+                "nome": "El Quinqu\u00e9",
+                "tipo": "bar"
+            },
+            "id": 143
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174762,
+                    18.4670436
+                ]
+            },
+            "properties": {
+                "nome": "Quimera",
+                "tipo": "cafe"
+            },
+            "id": 144
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1176023,
+                    18.467058
+                ]
+            },
+            "properties": {
+                "nome": "Te Cojo Bajando",
+                "tipo": "bar"
+            },
+            "id": 145
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174922,
+                    18.467234
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Hijos de Borinquen",
+                "tipo": "bar"
+            },
+            "id": 146
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1172689,
+                    18.467276
+                ]
+            },
+            "properties": {
+                "nome": "Mono Stereo",
+                "tipo": "bar"
+            },
+            "id": 147
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1173272,
+                    18.4676026
+                ]
+            },
+            "properties": {
+                "nome": "Papijoe",
+                "tipo": "bar"
+            },
+            "id": 148
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1186726,
+                    18.4672331
+                ]
+            },
+            "properties": {
+                "nome": "Ostra Cosa @T\u00f3tem",
+                "tipo": "restaurant"
+            },
+            "id": 149
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1178476,
+                    18.4643114
+                ]
+            },
+            "properties": {
+                "nome": "The Chapel",
+                "tipo": "bar"
+            },
+            "id": 150
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174253,
+                    18.4640451
+                ]
+            },
+            "properties": {
+                "nome": "T-tuan",
+                "tipo": "bar"
+            },
+            "id": 151
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1169373,
+                    18.4642491
+                ]
+            },
+            "properties": {
+                "nome": "Waffle-era Tea Room",
+                "tipo": "restaurant"
+            },
+            "id": 152
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1169842,
+                    18.467476
+                ]
+            },
+            "properties": {
+                "nome": "Rivera Hermanas",
+                "tipo": "pub"
+            },
+            "id": 153
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1157921,
+                    18.4656785
+                ]
+            },
+            "properties": {
+                "nome": "La Cochera",
+                "tipo": "parking_entrance"
+            },
+            "id": 154
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1168501,
+                    18.4637009
+                ]
+            },
+            "properties": {
+                "nome": "Princesa Gastrobar",
+                "tipo": "restaurant"
+            },
+            "id": 155
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1138476,
+                    18.4654577
+                ]
+            },
+            "properties": {
+                "nome": "Punto de Vista",
+                "tipo": "restaurant"
+            },
+            "id": 156
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144492,
+                    18.4633788
+                ]
+            },
+            "properties": {
+                "nome": "La Casita de Rones",
+                "tipo": "restaurant"
+            },
+            "id": 157
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1150868,
+                    18.4658708
+                ]
+            },
+            "properties": {
+                "nome": "Ajo del Pais",
+                "tipo": "restaurant"
+            },
+            "id": 158
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1147865,
+                    18.46595
+                ]
+            },
+            "properties": {
+                "nome": "La Bombonera",
+                "tipo": "restaurant"
+            },
+            "id": 159
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1109766,
+                    18.46468
+                ]
+            },
+            "properties": {
+                "nome": "Cuartel de la Polic\u00eda Municipal del Viejo San Juan",
+                "tipo": "police"
+            },
+            "id": 160
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1174473,
+                    18.4645182
+                ]
+            },
+            "properties": {
+                "nome": "Himalaya Ice Co",
+                "tipo": "ice_cream"
+            },
+            "id": 161
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1183908,
+                    18.4671766
+                ]
+            },
+            "properties": {
+                "nome": "Dokas Donas Artesanales",
+                "tipo": "fast_food"
+            },
+            "id": 162
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1129073,
+                    18.4633902
+                ]
+            },
+            "properties": {
+                "nome": "Caf\u00e9 Cola'o",
+                "tipo": "cafe"
+            },
+            "id": 163
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1141158,
+                    18.4654302
+                ]
+            },
+            "properties": {
+                "nome": "Pirilo Pizza R\u00fastica",
+                "tipo": "restaurant"
+            },
+            "id": 164
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1166828,
+                    18.465541
+                ]
+            },
+            "properties": {
+                "nome": "Casa Alcald\u00eda de San Juan",
+                "tipo": "townhall"
+            },
+            "id": 165
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1130767,
+                    18.4664099
+                ]
+            },
+            "properties": {
+                "nome": "La Grieta",
+                "tipo": "bar"
+            },
+            "id": 166
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1153061,
+                    18.4644626
+                ]
+            },
+            "properties": {
+                "nome": "Spiga",
+                "tipo": "restaurant"
+            },
+            "id": 167
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1162524,
+                    18.4676515
+                ]
+            },
+            "properties": {
+                "nome": "Cannon Club",
+                "tipo": "restaurant"
+            },
+            "id": 168
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1162237,
+                    18.4654615
+                ]
+            },
+            "properties": {
+                "nome": "The Cave",
+                "tipo": "restaurant"
+            },
+            "id": 169
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144645,
+                    18.4678566
+                ]
+            },
+            "properties": {
+                "nome": "Antojitos del Callej\u00f3n",
+                "tipo": "fast_food"
+            },
+            "id": 170
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144531,
+                    18.4676605
+                ]
+            },
+            "properties": {
+                "nome": "El Rinc\u00f3n De Paco",
+                "tipo": "restaurant"
+            },
+            "id": 171
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1155041,
+                    18.4664852
+                ]
+            },
+            "properties": {
+                "nome": "Luna Market",
+                "tipo": "marketplace"
+            },
+            "id": 172
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1144664,
+                    18.4679139
+                ]
+            },
+            "properties": {
+                "nome": "La Verguenza",
+                "tipo": "restaurant"
+            },
+            "id": 173
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinantes": [
+                    -66.1132447,
+                    18.4670192
+                ]
+            },
+            "properties": {
+                "nome": "Restaurante Casa Luna",
+                "tipo": "restaurant"
+            },
+            "id": 174
+        }
+    ]
+}
