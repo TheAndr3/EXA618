@@ -36,6 +36,7 @@ def scrap():
 def gerar_html(dados):
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write('<html><head><title>Resultados do Scraping</title></head><body>')
+        f.write('<link rel="icon" type="image/png" href="favicon.png">')
         f.write('<h1>Resultados do Scraping</h1>')
         f.write('<ul>')
         for item in dados:
