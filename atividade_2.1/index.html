@@ -1,28 +1,62 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Meu Blog</title>
+    <title>Blog da Camaradagem</title>
     <meta charset="UTF-8">
     <style>
         body { font-family: sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        .btn-view { margin-top: 20px; display: block; }
     </style>
 </head>
 <body>
     <h1>Novo Post do Blog</h1>
     
-    <form method="POST" action="/cgi-bin/blog.py">
+    <form id="postForm">
         Nome: <br>
-        <input type="text" name="autor" required><br><br>
+        <input type="text" id="author" required><br><br>
         
         Mensagem: <br>
-        <textarea name="mensagem" rows="4" cols="50" required></textarea><br><br>
+        <textarea id="message" rows="4" cols="50" required></textarea><br><br>
         
         <input type="submit" value="Enviar Postagem">
     </form>
 
-    <form method="GET" action="/cgi-bin/list_posts.py">
-        <input type="submit" value="Ver Postagens">
-    </form>
-    
+    <hr>
+    <a href="/api/blog" target="_blank" class="btn-view">
+        <button type="button">Ver Postagens (JSON)</button>
+    </a>
+
+    <script>
+        const form = document.getElementById('postForm');
+        
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault(); // Impede o recarregamento da página
+
+            // Monta o payload exatamente como pedido no requisito
+            const payload = {
+                action: "put",
+                author: document.getElementById('author').value,
+                message: document.getElementById('message').value
+            };
+
+            try {
+                const response = await fetch('/api/blog', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+
+                if (response.ok) {
+                    alert("Postagem realizada com sucesso!");
+                    form.reset();
+                } else {
+                    alert("Erro ao enviar dados para a API.");
+                }
+            } catch (error) {
+                console.error("Erro na requisição:", error);
+                alert("Não foi possível conectar à API.");
+            }
+        });
+    </script>
 </body>
 </html>
