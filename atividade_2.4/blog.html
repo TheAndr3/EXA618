@@ -1,0 +1,94 @@
+<html>
+<head>
+  <title>My Blog</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script type="application/javascript"> 
+    
+    window.onload = function() {
+        fetchMessages();
+    };
+
+    function fetchMessages(){
+        var url = "https://script.google.com/macros/s/AKfycbzBn3sALe1rYjz7Ze-Ik7q9TEVP0I2V3XX7GNcecWP8NvCzGt4yO_RT1OlQp09TE9cU/exec";
+
+        fetch(url, {
+            method: "GET",
+            mode: "cors"
+        })
+        .then(response => response.json())
+        .then(data => {
+            displayMessages(data);
+        })
+        .catch(error => console.error("Erro:", error));
+    }
+
+    function displayMessages(data) {
+        var messagesDiv = document.getElementById("messages");
+
+        messagesDiv.innerHTML = "";
+
+        if (!data || data.length === 0) {
+            messagesDiv.innerHTML = "<p>No messages found.</p>";
+            return;
+        }
+
+        data.forEach(msg => {
+            var msgElement = document.createElement("div");
+            // Acessando os índices corretos conforme seu console.log anterior
+            let mensagem = msg[0];
+            let autor = msg[1];
+
+            msgElement.innerHTML = `<strong>${autor}:</strong> ${mensagem}`;
+            msgElement.style.marginBottom = "5px"; 
+
+            messagesDiv.appendChild(msgElement);
+        });
+    }
+
+    function send(event){        
+      var data = {
+        "message": document.getElementById("msg").value,
+        "author": document.getElementById("autor").value
+      };      
+      var json_data = JSON.stringify(data);
+      
+      var header = {
+        "Content-Type": "application/json"
+      };
+      
+      var url = "https://script.google.com/macros/s/AKfycbzBn3sALe1rYjz7Ze-Ik7q9TEVP0I2V3XX7GNcecWP8NvCzGt4yO_RT1OlQp09TE9cU/exec";
+      
+      fetch(url, {
+        method: "POST",
+        body: json_data,
+        headers: header,
+        mode: "no-cors" 
+      })
+      .then(response => {
+        console.log("Mensagem enviada com sucesso!");
+        
+        document.getElementById("msg").value = "";
+        document.getElementById("autor").value = "";
+        
+        setTimeout(fetchMessages, 1000); 
+      })
+      .catch(error => console.error("Erro ao enviar:", error));      
+    }
+  </script>  
+</head>
+<body>
+  <h1 align="center">Mensagem:</h1>
+  <hr><br>
+  <form onsubmit="event.preventDefault()">
+       <label>Mensagem:</label>
+       <input type="text" size="64" name="msg" id="msg"><br><br>     
+       <label>Autor:</label> 
+       <input type="text" size="64" name="autor" id="autor">
+       <br><br>
+       <button type="button" onclick="send()">Enviar</button>
+  </form>
+  <hr>
+  <h2>Mensagens:</h2>
+  <div id="messages"></div>
+</body>
+</html>
