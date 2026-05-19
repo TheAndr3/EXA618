@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.esqcima, .dircima, .esqbaixo, .dirbaixo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  width: 20%;
+  height: 20%;
+}
+
+.esqcima {
+  background-color: red;
+  top: 0;
+  left: 0;
+}
+
+.dircima {
+  background-color: yellow;
+  top: 0;
+  right: 0;
+}
+
+.esqbaixo {
+  background-color: green;
+  bottom: 0;
+  left: 0;
+}
+
+.dirbaixo {
+  background-color: blue;
+  bottom: 0;
+  right: 0;
+}
